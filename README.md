@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nandasai2004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nandasai2004/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Nandasai2004/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nandasai2004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Nandasai2004/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Nandasai2004/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
