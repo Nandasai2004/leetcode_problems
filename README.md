@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nandasai2004/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
@@ -14,16 +15,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
@@ -32,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
