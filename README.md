@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nandasai2004/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nandasai2004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nandasai2004/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Nandasai2004/leetcode_problems/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nandasai2004/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nandasai2004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Nandasai2004/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0229-majority-element-ii) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nandasai2004/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nandasai2004/leetcode_problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
