@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nandasai2004/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nandasai2004/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nandasai2004/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
