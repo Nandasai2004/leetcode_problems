@@ -119,9 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Nandasai2004/leetcode_problems/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Nandasai2004/leetcode_problems/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Nandasai2004/leetcode_problems/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nandasai2004/leetcode_problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
