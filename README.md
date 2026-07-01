@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nandasai2004/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Nandasai2004/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Nandasai2004/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Nandasai2004/leetcode_problems/tree/master/0682-baseball-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nandasai2004/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nandasai2004/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandasai2004/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Nandasai2004/leetcode_problems/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nandasai2004/leetcode_problems/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Nandasai2004/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Nandasai2004/leetcode_problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Nandasai2004/leetcode_problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nandasai2004/leetcode_problems/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nandasai2004/leetcode_problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
